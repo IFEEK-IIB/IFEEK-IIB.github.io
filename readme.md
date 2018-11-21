@@ -1,4 +1,4 @@
-[神戸大学経済学部・IFEEK特別演習IIB](https://ifeek-iib.github.io/)
+神戸大学経済学部・[IFEEK特別演習IIB](https://ifeek-iib.github.io/)
 
 担当教員：春山 鉄源
 
